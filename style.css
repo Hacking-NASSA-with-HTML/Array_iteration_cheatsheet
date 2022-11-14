@@ -34,7 +34,7 @@
 }
 
 .code {
-    padding: 0 0 0 20vw;
+    padding: 10vh 0 0 20vw;
     font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
 }
 
@@ -46,7 +46,7 @@
 
 @media (max-width: 768px) {
     .code {
-        padding: 0 0 0 5vw;
+        padding: 10vh 0 0 5vw;
         font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
     }
 }
@@ -59,7 +59,7 @@
 
 @media (max-width: 767px) {
     .code {
-        padding: 0 0 0 2vw;
+        padding: 10vh 0 0 2vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
     }
 }
