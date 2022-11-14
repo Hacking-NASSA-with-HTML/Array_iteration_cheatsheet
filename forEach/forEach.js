@@ -12,6 +12,15 @@ function mainPageContent() {
                     main page
                 </a>
             </p>
-    </main>`
+            <p class="code">
+                <code>[1, 2, 3].forEach(function (item, index) {</code><br>
+                <code>console.log(item, index)</code><br>
+                <code>})</code>
+            </p>
+        </main>`
     return renderMainPageContent
 }
+
+[1, 2, 3].forEach(function (item, index) {
+    console.log(item, index)
+})

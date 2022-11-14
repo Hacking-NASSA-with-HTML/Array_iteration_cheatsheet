@@ -7,9 +7,8 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     background-color: #3b4aed;
-    min-height: 100vh;
-    max-height: 100vh;
-    height: 100vh;
+    height: 90vh;
+    height: device-height;
     color: whitesmoke;
 }
 
@@ -32,4 +31,35 @@
 
 .link:hover {
     color: #e45213;
+}
+
+.code {
+    padding: 0 0 0 20vw;
+    font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
+}
+
+
+/*****************************                                          ***********/
+/*****************************        @media (max-width: 768px)         ***********/
+/*****************************                                          ***********/
+/*****************************                                          ***********/
+
+@media (max-width: 768px) {
+    .code {
+        padding: 0 0 0 5vw;
+        font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
+    }
+}
+
+
+/*****************************                                          ***********/
+/*****************************        @media (max-width: 767px)         ***********/
+/*****************************                                          ***********/
+/*****************************                                          ***********/
+
+@media (max-width: 767px) {
+    .code {
+        padding: 0 0 0 2vw;
+        font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
+    }
 }
