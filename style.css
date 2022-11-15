@@ -34,9 +34,10 @@
 }
 
 .code {
-    padding: 10vh 0 0 20vw;
     font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
     color: #7befce;
+    white-space: pre;
+    line-height: 20px;
 }
 
 
@@ -47,7 +48,6 @@
 
 @media (max-width: 768px) {
     .code {
-        padding: 10vh 0 0 5vw;
         font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
     }
 }
@@ -60,7 +60,20 @@
 
 @media (max-width: 767px) {
     .code {
-        padding: 10vh 0 0 2vw;
+        margin: 0 0 0 -10vw;
+        font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
+    }
+}
+
+
+/*****************************                                          ***********/
+/*****************************        @media (max-width: 320px)         ***********/
+/*****************************                                          ***********/
+/*****************************                                          ***********/
+
+@media (max-width: 320px) {
+    .code {
+        margin: 0 0 0 -15vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
     }
 }
