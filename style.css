@@ -23,7 +23,8 @@
 .link {
     color: #eee4e4;
     text-decoration: none;
-    outline: none;
+    border: 1px solid red;
+    border-radius: 4px;
     cursor: pointer;
     font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (1600 - 300)));
     transition: all .3s;
