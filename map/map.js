@@ -12,18 +12,19 @@ function mainPageContent() {
             </p>
             <p class="code">
                 <code>const array = [1, 2, 3]</code><br>
-                <code>const doubled = array.map(function (item) {</code><br>
-                <code>    return item * 2</code><br>
+                <code>const tripled = array.map(function (item) {</code><br>
+                <code>    return item * 3</code><br>
                 <code>})</code><br>
-                <code>console.log(doubled)</code>
+                <code>console.log(tripled)</code><br>
+                <code>// result: (3) [3, 6, 9]   map.js:30</code>
             </p>
         </main>`
     return renderMainPageContent
 }
 
 const array = [1, 2, 3]
-const doubled = array.map(function (item) {
-    return item * 2
+const tripled = array.map(function (item) {
+    return item * 3
 })
 
-console.log(doubled)
+console.log(tripled)
