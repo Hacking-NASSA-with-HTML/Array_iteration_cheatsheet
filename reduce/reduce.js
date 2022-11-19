@@ -11,17 +11,20 @@ function mainPageContent() {
                 <a class="link" title="Reduce Method" href="./../index.html">Back to main page</a>
             </p>
             <p class="code">
-                <code>const sum = [1, 2, 3].reduce(function (result, item) {</code><br>
+                <code>const array = [1, 2, 3]</code><br>
+                <code>const sum = array.reduce(function (result, item) {</code><br>
+                <code>// or const sum = array.reduce((result, item) => {</code><br>
                 <code>    return result + item</code><br>
                 <code>}, 0)</code><br>
                 <code>console.log(sum)</code><br>
-                <code>// result: 6   reduce.js:28</code>
+                <code>// result: 6   reduce.js:31</code>
             </p>
         </main>`
     return renderMainPageContent
 }
 
-const sum = [1, 2, 3].reduce(function (result, item) {
+const array = [1, 2, 3]
+const sum = array.reduce((result, item) => {
     return result + item
 }, 0)
 
