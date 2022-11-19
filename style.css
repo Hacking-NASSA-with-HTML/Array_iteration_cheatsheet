@@ -60,6 +60,11 @@
     .code {
         font-size: calc(20px + (30 - 20) * ((100vw - 300px) / (1600 - 300)));
     }
+
+    .paragraph {
+        margin: 20px 20px;
+        padding: 10px 20px;
+    }
 }
 
 
@@ -72,6 +77,11 @@
     .code {
         margin: 0 0 0 -8vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
+    }
+
+    .paragraph {
+        margin: 20px 20px;
+        padding: 10px 20px;
     }
 }
 
@@ -86,6 +96,11 @@
         margin: 0 0 0 -10vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
     }
+
+    .paragraph {
+        margin: 20px 20px;
+        padding: 10px 20px;
+    }
 }
 
 
@@ -99,6 +114,10 @@
         margin: 0 0 0 -13vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
     }
+
+    .link {
+        padding: 10px 10px;
+    }
 }
 
 
@@ -111,5 +130,9 @@
     .code {
         margin: 0 0 0 -15vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
+    }
+
+    .link {
+        padding: 10px 10px;
     }
 }
