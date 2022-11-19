@@ -19,7 +19,7 @@
 .paragraph {
     text-align: center;
     margin: 20px 40px;
-    padding: 20px 40px;
+    padding: 10px 40px;
 }
 
 .link {
@@ -30,7 +30,7 @@
     cursor: pointer;
     font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (1600 - 300)));
     transition: all .3s;
-    padding: 20px 40px;
+    padding: 10px 40px;
 }
 
 .link:hover {
