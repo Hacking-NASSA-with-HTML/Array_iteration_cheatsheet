@@ -34,10 +34,13 @@
 }
 
 .link:hover {
-    /* color: #e45213; */
     color: white;
     background-color: blue;
     border: 1px solid whitesmoke;
+}
+
+.link:active {
+    outline: 3px solid #e45213;
 }
 
 .code {
