@@ -18,6 +18,8 @@
 
 .paragraph {
     text-align: center;
+    margin: 20px 40px;
+    padding: 20px 40px;
 }
 
 .link {
@@ -28,10 +30,14 @@
     cursor: pointer;
     font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (1600 - 300)));
     transition: all .3s;
+    padding: 20px 40px;
 }
 
 .link:hover {
-    color: #e45213;
+    /* color: #e45213; */
+    color: white;
+    background-color: blue;
+    border: 1px solid whitesmoke;
 }
 
 .code {
