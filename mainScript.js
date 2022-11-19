@@ -18,6 +18,9 @@ function mainPageContent() {
             <p class="paragraph">
                 <a class="link" title="Reduce Method" href="./reduce/reduce.html">reduce Method</a>
             </p>
+            <p class="paragraph">
+                <a class="link" title="Some Method" href="./some/some.html">some Method</a>
+            </p>
     </main>`
     return renderMainPageContent
 }
