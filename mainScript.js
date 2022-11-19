@@ -15,6 +15,9 @@ function mainPageContent() {
             <p class="paragraph">
                 <a class="link" title="Filter Method" href="./filter/filter.html">filter Method</a>
             </p>
+            <p class="paragraph">
+                <a class="link" title="Reduce Method" href="./reduce/reduce.html">reduce Method</a>
+            </p>
     </main>`
     return renderMainPageContent
 }
