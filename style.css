@@ -11,6 +11,10 @@
     color: whitesmoke;
 }
 
+#main {
+    padding: 0 0 10vh 0;
+}
+
 .titleH1 {
     text-align: center;
 }
