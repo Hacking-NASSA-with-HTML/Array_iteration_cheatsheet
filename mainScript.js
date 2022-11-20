@@ -21,6 +21,9 @@ function mainPageContent() {
             <p class="paragraph">
                 <a class="link" title="Some Method" href="./some/some.html">some Method</a>
             </p>
+            <p class="paragraph">
+                <a class="link" title="Every Method" href="./every/every.html">every Method</a>
+            </p>
     </main>`
     return renderMainPageContent
 }
