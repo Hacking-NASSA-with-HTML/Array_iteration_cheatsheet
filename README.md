@@ -5,3 +5,5 @@
 ---
 https://www.youtube.com/watch?v=Urwzk6ILvPQ
 ---
+* DEPLOYMENT IN GITHUB PAGES
+See the ready Deployed project on [Github Pages](https://hacking-nassa-with-html.github.io/Array_iteration_cheatsheet/).
