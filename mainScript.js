@@ -30,6 +30,9 @@ function mainPageContent() {
             <p class="paragraph">
                 <a class="link" title="findIndex Method" href="./findIndex/findIndex.html">findIndex Method</a>
             </p>
+            <p class="paragraph">
+                <a class="link" title="Includes Method" href="./includes/includes.html">includes Method</a>
+            </p>
     </main>`
     return renderMainPageContent
 }
