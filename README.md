@@ -1,4 +1,4 @@
-# Array iteration syntax cheat sheet JavaScript app.
+# 9 Must Know Array iteration syntax cheat sheet JavaScript app.
 
 ##### Array Iteration Methods - map, filter, reduce, some, every, find, findIndex, forEach, includes.
 ###### On materials of the freeCodeCamp 
