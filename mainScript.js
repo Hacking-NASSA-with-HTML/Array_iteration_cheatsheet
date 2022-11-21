@@ -27,6 +27,9 @@ function mainPageContent() {
             <p class="paragraph">
                 <a class="link" title="Find Method" href="./find/find.html">find Method</a>
             </p>
+            <p class="paragraph">
+                <a class="link" title="findIndex Method" href="./findIndex/findIndex.html">findIndex Method</a>
+            </p>
     </main>`
     return renderMainPageContent
 }
