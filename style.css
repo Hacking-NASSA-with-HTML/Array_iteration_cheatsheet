@@ -98,6 +98,10 @@
 /*****************************                                          ***********/
 
 @media (max-width: 426px) {
+    #main {
+        padding: 15vh 0 10vh 0;
+    }
+
     .code {
         margin: 0 0 0 -10vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
@@ -116,6 +120,10 @@
 /*****************************                                          ***********/
 
 @media (max-width: 376px) {
+    #main {
+        padding: 15vh 0 10vh 0;
+    }
+
     .code {
         margin: 0 0 0 -13vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
@@ -133,6 +141,10 @@
 /*****************************                                          ***********/
 
 @media (max-width: 321px) {
+    #main {
+        padding: 15vh 0 10vh 0;
+    }
+
     .code {
         margin: 0 0 0 -15vw;
         font-size: calc(13px + (25 - 13) * ((100vw - 300px) / (1600 - 300)));
