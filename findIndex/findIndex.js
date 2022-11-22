@@ -26,8 +26,8 @@ function mainPageContent() {
                 <br>
                 <code>console.log(foundB_index)</code><br>
                 <code>console.log(foundD_index)</code><br>
-                <code>// result: 1   findIndex.js:39</code><br>
-                <code>// result: -1   findIndex.js:40</code>
+                <code>// result: 1   findIndex.js:44</code><br>
+                <code>// result: -1   findIndex.js:45</code>
             </p>
         </main>`
     return renderMainPageContent

@@ -21,7 +21,7 @@ function mainPageContent() {
                 <code>    return item * 3</code><br>
                 <code>})</code><br>
                 <code>console.log(tripled)</code><br>
-                <code>// result: (3) [3, 6, 9]   map.js:30</code>
+                <code>// result: (3) [3, 6, 9]   map.js:35</code>
             </p>
         </main>`
     return renderMainPageContent

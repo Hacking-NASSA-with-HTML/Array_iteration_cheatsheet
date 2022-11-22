@@ -22,7 +22,7 @@ function mainPageContent() {
                 <code>    return result + item</code><br>
                 <code>}, 0)</code><br>
                 <code>console.log(sum)</code><br>
-                <code>// result: 6   reduce.js:31</code>
+                <code>// result: 6   reduce.js:36</code>
             </p>
         </main>`
     return renderMainPageContent

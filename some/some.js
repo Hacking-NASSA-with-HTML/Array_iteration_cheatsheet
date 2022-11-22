@@ -21,7 +21,7 @@ function mainPageContent() {
                 <code>    return item < 0</code><br>
                 <code>})</code><br>
                 <code>console.log(hasNegativeNumbers)</code><br>
-                <code>// result: true   some.js:30</code>
+                <code>// result: true   some.js:35</code>
             </p>
         </main>`
     return renderMainPageContent

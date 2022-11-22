@@ -21,7 +21,7 @@ function mainPageContent() {
                 <code>    return item % 2 === 0</code><br>
                 <code>})</code><br>
                 <code>console.log(even)</code><br>
-                <code>// result: (3) [2, 4, 6]   filter.js:30</code>
+                <code>// result: (3) [2, 4, 6]   filter.js:35</code>
             </p>
         </main>`
     return renderMainPageContent

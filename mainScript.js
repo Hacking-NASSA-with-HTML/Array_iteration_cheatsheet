@@ -41,3 +41,4 @@ function mainPageContent() {
     </main>`
     return renderMainPageContent
 }
+

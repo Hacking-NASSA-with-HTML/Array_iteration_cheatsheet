@@ -22,8 +22,8 @@ function mainPageContent() {
                 <br>
                 <code>console.log(isIncludesThree)</code><br>
                 <code>console.log(isIncludesFour)</code><br>
-                <code>// result: true   includes.js:31</code><br>
-                <code>// result: false   includes.js:32</code>
+                <code>// result: true   includes.js:36</code><br>
+                <code>// result: false   includes.js:37</code>
             </p>
         </main>`
     return renderMainPageContent

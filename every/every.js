@@ -22,7 +22,7 @@ function mainPageContent() {
                 <code>})</code><br>
                 <br>
                 <code>console.log(isAllPositiveNumbers)</code><br>
-                <code>// result: false   every.js:31</code>
+                <code>// result: false   every.js:36</code>
             </p>
         </main>`
     return renderMainPageContent

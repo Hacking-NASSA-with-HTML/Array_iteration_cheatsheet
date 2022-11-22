@@ -26,8 +26,8 @@ function mainPageContent() {
                 <br>
                 <code>console.log(foundB)</code><br>
                 <code>console.log(foundD)</code><br>
-                <code>// result: {id: 'b'}   find.js:39</code><br>
-                <code>// result: undefined   find.js:40</code>
+                <code>// result: {id: 'b'}   find.js:44</code><br>
+                <code>// result: undefined   find.js:45</code>
             </p>
         </main>`
     return renderMainPageContent
