@@ -15,3 +15,5 @@ please let me know if you have found an issue :handshake:
 Give this repo a Star :star:
 ---
 ![](https://github.com/Hacking-NASSA-with-HTML/Array_iteration_cheatsheet/star.gif)
+![](https://hacking-nassa-with-html.github.io/Array_iteration_cheatsheet/star.gif)
+
