@@ -17,3 +17,5 @@ Give this repo a Star :star:
 
 ![](https://hacking-nassa-with-html.github.io/Array_iteration_cheatsheet/star.gif)
 
+![](https://github.com/Hacking-NASSA-with-HTML/Array_iteration_cheatsheet/blob/main/star.gif)
+
